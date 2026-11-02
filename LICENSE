@@ -1,0 +1,96 @@
+ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ «СИМУЛЯТОР ГИБКИ ЛИСТА»
+
+© 2026 @Frikks (https://t.me/Frikks). Все права защищены.
+
+Программа «Симулятор Гибки Листа» (Press Bending Simulating), её файлы
+APK/APKS, EXE и MSIX, исходный код, библиотека инструмента, изображения, тексты и
+другие материалы этого репозитория (далее — «Программа») защищены
+авторским правом. Все права, прямо не предоставленные этим соглашением,
+сохраняются за правообладателем.
+
+1. Что разрешено
+   Любой пользователь может бесплатно скачать официальный файл Программы
+   со страницы Releases этого репозитория, установить его на свои
+   устройства и пользоваться Программой в личных, учебных и рабочих целях.
+
+2. Что запрещено без предварительного письменного разрешения
+   правообладателя
+   а) копировать и распространять Программу или её части, в том числе
+      выкладывать файлы APK/APKS, EXE и MSIX на других сайтах, в каналах, облачных
+      хранилищах и магазинах приложений;
+   б) изменять Программу, создавать на её основе производные версии,
+      переводы и сборки;
+   в) декомпилировать, дизассемблировать и иным образом восстанавливать
+      исходный код Программы, кроме случаев, прямо разрешённых
+      применимым законом;
+   г) продавать Программу, сдавать её в аренду, встраивать в другие
+      продукты или использовать её материалы в коммерческих целях;
+   д) удалять или изменять сведения об авторах и правообладателе.
+
+3. Форки на GitHub
+   Публикация репозитория на GitHub даёт пользователям GitHub только те
+   права, которые прямо предусмотрены Условиями использования GitHub
+   (просмотр репозитория и создание его копии-форка средствами GitHub).
+   Наличие форка не даёт права использовать, изменять или
+   распространять Программу и материалы репозитория. Любое такое
+   использование форка требует письменного разрешения правообладателя.
+
+4. Отказ от гарантий
+   Программа предоставляется «как есть», без каких-либо гарантий.
+   Программа является учебно-справочным инструментом, не является
+   системой управления станком или обеспечения безопасности и не
+   подтверждает выполнимость и безопасность гибки. Правообладатель не
+   несёт ответственности за любой ущерб, связанный с использованием
+   Программы.
+
+5. Сторонние компоненты
+   Программа использует сторонние библиотеки и шрифт с открытыми
+   лицензиями; их тексты приведены в THIRD-PARTY-LICENSES.txt. Названия производителей
+   инструмента являются товарными знаками их владельцев и приведены только
+   для идентификации.
+
+6. Получение разрешения
+   Для получения разрешения пишите в Telegram: https://t.me/Frikks
+
+-----------------------------------------------------------------------
+
+LICENSE AGREEMENT — PRESS BENDING SIMULATING
+
+© 2026 @Frikks (https://t.me/Frikks). All rights reserved.
+
+The "Press Bending Simulating" application, its EXE and MSIX files, source
+code, tooling library, images, texts and other materials in this
+repository (the "Software") are protected by copyright. All rights not
+expressly granted here are reserved.
+
+1. You may download the official Software files from the Releases page of
+   this repository free of charge, install them on your devices and use
+   the Software for personal, educational and work purposes.
+
+2. Without the copyright holder's prior written permission you may not:
+   (a) copy or redistribute the Software or any part of it, including
+       uploading the EXE and MSIX files to other websites, channels, cloud
+       storage or app stores;
+   (b) modify the Software or create derivative works, translations or
+       builds based on it;
+   (c) decompile, disassemble or otherwise reverse engineer the Software,
+       except where expressly permitted by applicable law;
+   (d) sell, rent, embed or otherwise use the Software commercially;
+   (e) remove or alter author and copyright notices.
+
+3. GitHub forks. Publishing this repository on GitHub grants GitHub users
+   only the rights expressly required by the GitHub Terms of Service
+   (viewing the repository and forking it using GitHub's features). A
+   fork grants no right to use, modify or distribute the Software or any
+   repository material. Any such use requires written permission.
+
+4. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. It is
+   an educational reference tool, not a machine control or safety system,
+   and does not confirm that a bend is feasible or safe. The copyright
+   holder is not liable for any damage arising from its use.
+
+5. Third-party libraries and the font are used under their open licenses;
+   their texts are provided in THIRD-PARTY-LICENSES.txt. Tooling manufacturer names
+   are trademarks of their owners and are used for identification only.
+
+6. To request permission, contact https://t.me/Frikks
