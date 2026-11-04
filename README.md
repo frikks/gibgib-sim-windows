@@ -61,10 +61,11 @@ Add-AppxPackage ".\GibGib-Sim-3.3.3-Windows11-x64-TEST.msix"
 
 *Настольная проверка в Linux; внешний вид Windows может отличаться.*
 
-![Симулятор](simulator-windows-3.3.png)
-![Деталь](detail-windows-3.3.png)
-![Развёртка](flat-windows-3.3.png)
-![K-фактор](kfactor-windows-3.3.png)
+![Симулятор](simulator-windows-3.3.3.png)
+![Деталь](detail-windows-3.3.3.png)
+![Развёртка и «Печать»](flat-windows-3.3.3.png)
+![K-фактор](kfactor-windows-3.3.3.png)
+![Список инструмента](tools-windows-3.3.3.png)
 
 ## Важно
 
